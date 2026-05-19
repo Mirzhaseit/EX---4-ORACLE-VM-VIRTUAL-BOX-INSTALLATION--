@@ -1,4 +1,7 @@
-# EX---4-ORACLE-VM-VIRTUAL-BOX-INSTALLATION--
+# EX---3-ORACLE-VM-VIRTUAL-BOX-INSTALLATION--
+# Name: MIRZHA FATHIMA
+# Register Number: 212224230159
+
 ## AIM:
 To install Oracle VM VirtualBox, a free and open-source hosted hypervisor, on a computer system,enabling the creation and management of virtual machines for running multiple operating systems on a single host machine
 ### EQUIPMENTS REQUIRED:
@@ -31,7 +34,10 @@ For Windows:
  Choose between 32-bit or 64-bit depending on your system (most systems are 64-bit).  Download the Installer version for a full installation.
 #### Step 2: Open Oracle VM VirtualBox
     1. Launch VirtualBox on your computer.
-    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f49e1f29-461b-429a-977e-ae1ec08c6ba4" />
+    
+<img width="932" height="585" alt="image" src="https://github.com/user-attachments/assets/3219153c-9da1-430a-8ba8-c4ec04d7d104" />
+
+
 
 #### Step 3: Create a New Virtual Machine
     1. In VirtualBox, click on the New button to create a new virtual machine.
@@ -67,7 +73,10 @@ For Windows:
 #### Step 10: Start the Virtual Machine
     1. In VirtualBox, click Start to boot up your Kali Linux virtual machine.
     
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fd7412bb-31e8-4151-b0db-c2ba61ffacef" />
+<img width="1202" height="770" alt="image" src="https://github.com/user-attachments/assets/547f67e2-49bb-4d60-a5f7-008f4ff3093d" />
+
+
+
 
 
 #### Step 11: Begin Kali Linux Installation
@@ -102,30 +111,44 @@ For Windows:
 
 ## EXPECTED OUTPUT
 
-<img width="1299" height="1031" alt="image" src="https://github.com/user-attachments/assets/b2ba7a96-dbc4-45fb-8bc4-155aa16e4a38" />
+<img width="1228" height="651" alt="image" src="https://github.com/user-attachments/assets/713ca93c-0a70-4896-aa66-47d9976254fb" />
+
+
 
 # .sh method
 
 ## PROGRAM
+#### Shell script to add two numbers:
+<img width="666" height="475" alt="image" src="https://github.com/user-attachments/assets/2d4b40ce-3809-48dc-9afa-d6f40f07ea2d" />
 
-`nano add.sh`
-<img width="754" height="328" alt="image" src="https://github.com/user-attachments/assets/5fb0f871-b9b3-4cd7-b0b2-c0340482b091" />
+
+
+
 
 ## EXPECTED OUTPUT
 
-<img width="503" height="267" alt="image" src="https://github.com/user-attachments/assets/efac99ea-cd15-4344-9b6f-6ac6166e37d0" />
+
+<img width="593" height="616" alt="image" src="https://github.com/user-attachments/assets/c94ef44d-a443-4da2-88dd-3b8330cfdd46" />
+
+
 
 ## CHMOD METHOD
 
-<img width="903" height="126" alt="image" src="https://github.com/user-attachments/assets/62594d26-7758-4ea5-962f-433681d87a7c" />
+<img width="421" height="97" alt="image" src="https://github.com/user-attachments/assets/15a7cf89-4c3b-476a-88bf-88d4f54038ea" />
+
+
 
 # TERMINAL METHOD
 
-<img width="596" height="614" alt="image" src="https://github.com/user-attachments/assets/7f169adc-5e13-41e4-b700-41ed762642f2" />
+<img width="752" height="559" alt="image" src="https://github.com/user-attachments/assets/0076e080-be69-4399-a93f-4c460d94cf03" />
 
-## LINUX COMMANDS
 
-<img width="997" height="548" alt="image" src="https://github.com/user-attachments/assets/cdba70ef-54c7-42f2-9894-801d7438ae0f" />
+
+
+# Linux METHOD
+
+<img width="483" height="415" alt="image" src="https://github.com/user-attachments/assets/f213e2e7-2551-4a3b-8f6f-2ab7daeb68da" />
+
 
 ## RESULT
-Thus, this experiment helped in understanding the fundamentals of Linux commands and Bash scripting for automation and system management.
+Thus, this experiment helped in understanding the fundamentals of Linux commands and Bash scripting for automation and system management.
